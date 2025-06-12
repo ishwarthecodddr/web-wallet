@@ -20,10 +20,10 @@ export const EthWallet = ({mnemonic}) => {
             }}>
                 Add ETH wallet
             </button>
-
+{/* 
             {addresses.map(p => <div>
                 Eth - {p}
-            </div>)}
+            </div>)} */}
         </div>
     )
 }
